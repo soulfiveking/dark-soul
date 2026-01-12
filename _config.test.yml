@@ -1,0 +1,71 @@
+# Hexo Configuration
+title: 测试博客
+subtitle: ''
+description: ''
+keywords: ''
+author: 测试员
+language: zh-CN
+timezone: ''
+
+# URL
+url: https://soulfiveking.github.io
+root: /dark-soul/
+permalink: :year/:month/:day/:title/
+permalink_defaults:
+pretty_urls:
+  trailing_index: true
+  trailing_html: true
+
+# 目录
+source_dir: source
+public_dir: public
+tag_dir: tags
+archive_dir: archives
+category_dir: categories
+code_dir: downloads/code
+i18n_dir: :lang
+skip_render:
+
+# 文章
+new_post_name: :title.md
+default_layout: post
+titlecase: false
+external_link:
+  enable: true
+  field: site
+  exclude: ''
+filename_case: 0
+render_drafts: false
+post_asset_folder: false
+relative_link: false
+future: true
+highlight:
+  enable: true
+  line_number: true
+  auto_detect: false
+  tab_replace: ''
+  wrap: true
+  hljs: false
+
+# 分类 & 标签
+default_category: uncategorized
+category_map:
+tag_map:
+
+# 日期格式
+date_format: YYYY-MM-DD
+time_format: HH:mm:ss
+updated_format: YYYY-MM-DD HH:mm:ss
+
+# 分页
+per_page: 10
+pagination_dir: page
+
+# 主题
+theme: anzhiyu
+
+# 部署
+deploy:
+  type: git
+  repo: git@github.com:soulfiveking/dark-soul.git
+  branch: main
