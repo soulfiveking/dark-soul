@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>soulfiveking</title>
+  
+  
+  <link href="https://soulfiveking.github.io/dark-soul/atom.xml" rel="self"/>
+  
+  <link href="https://soulfiveking.github.io/dark-soul/"/>
+  <updated>2026-01-13T06:44:50.210Z</updated>
+  <id>https://soulfiveking.github.io/dark-soul/</id>
+  
+  <author>
+    <name>ultraman</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的第一篇文章</title>
+    <link href="https://soulfiveking.github.io/dark-soul/2026/01/13/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>https://soulfiveking.github.io/dark-soul/2026/01/13/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+    <published>2026-01-13T05:59:31.000Z</published>
+    <updated>2026-01-13T06:44:50.210Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://soulfiveking.github.io/dark-soul/2026/01/13/hello-world/"/>
+    <id>https://soulfiveking.github.io/dark-soul/2026/01/13/hello-world/</id>
+    <published>2026-01-13T05:53:24.125Z</published>
+    <updated>2026-01-13T06:44:50.210Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>测试文章3</title>
+    <link href="https://soulfiveking.github.io/dark-soul/2024/01/13/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A03/"/>
+    <id>https://soulfiveking.github.io/dark-soul/2024/01/13/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A03/</id>
+    <published>2024-01-12T16:00:00.000Z</published>
+    <updated>2026-01-13T08:34:04.716Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="测试文章-3"><a href="#测试文章-3" class="headerlink" title="测试文章 3"></a>测试文章 3</h1><p>这是第 3 篇测试文章，用于验证博客功能。</p><h2 id="内容概要"><a href="#内容概要" class="headerlink" title="内容概要"></a>内容概要</h2><ul><li>测试文章分类和标签功能</li><li>验证文章显示效果</li><li>测试搜索功能</li></ul><h2 id="更多内容"><a href="#更多内容" class="headerlink" title="更多内容"></a>更多内容</h2><p>这是测试内容，用于填充文章以测试布局和样式。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;测试文章-3&quot;&gt;&lt;a href=&quot;#测试文章-3&quot; class=&quot;headerlink&quot; title=&quot;测试文章 3&quot;&gt;&lt;/a&gt;测试文章 3&lt;/h1&gt;&lt;p&gt;这是第 3 篇测试文章，用于验证博客功能。&lt;/p&gt;
+&lt;h2 id=&quot;内容概要&quot;&gt;&lt;a href=&quot;#内容概要</summary>
+      
+    
+    
+    
+    <category term="类别3" scheme="https://soulfiveking.github.io/dark-soul/categories/%E7%B1%BB%E5%88%AB3/"/>
+    
+    
+    <category term="测试" scheme="https://soulfiveking.github.io/dark-soul/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+    <category term="分类3" scheme="https://soulfiveking.github.io/dark-soul/tags/%E5%88%86%E7%B1%BB3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试文章1</title>
+    <link href="https://soulfiveking.github.io/dark-soul/2024/01/13/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A01/"/>
+    <id>https://soulfiveking.github.io/dark-soul/2024/01/13/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A01/</id>
+    <published>2024-01-12T16:00:00.000Z</published>
+    <updated>2026-01-13T08:34:04.710Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="测试文章-1"><a href="#测试文章-1" class="headerlink" title="测试文章 1"></a>测试文章 1</h1><p>这是第 1 篇测试文章，用于验证博客功能。</p><h2 id="内容概要"><a href="#内容概要" class="headerlink" title="内容概要"></a>内容概要</h2><ul><li>测试文章分类和标签功能</li><li>验证文章显示效果</li><li>测试搜索功能</li></ul><h2 id="更多内容"><a href="#更多内容" class="headerlink" title="更多内容"></a>更多内容</h2><p>这是测试内容，用于填充文章以测试布局和样式。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;测试文章-1&quot;&gt;&lt;a href=&quot;#测试文章-1&quot; class=&quot;headerlink&quot; title=&quot;测试文章 1&quot;&gt;&lt;/a&gt;测试文章 1&lt;/h1&gt;&lt;p&gt;这是第 1 篇测试文章，用于验证博客功能。&lt;/p&gt;
+&lt;h2 id=&quot;内容概要&quot;&gt;&lt;a href=&quot;#内容概要</summary>
+      
+    
+    
+    
+    <category term="类别1" scheme="https://soulfiveking.github.io/dark-soul/categories/%E7%B1%BB%E5%88%AB1/"/>
+    
+    
+    <category term="测试" scheme="https://soulfiveking.github.io/dark-soul/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+    <category term="分类1" scheme="https://soulfiveking.github.io/dark-soul/tags/%E5%88%86%E7%B1%BB1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试文章2</title>
+    <link href="https://soulfiveking.github.io/dark-soul/2024/01/13/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A02/"/>
+    <id>https://soulfiveking.github.io/dark-soul/2024/01/13/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A02/</id>
+    <published>2024-01-12T16:00:00.000Z</published>
+    <updated>2026-01-13T08:34:04.717Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="测试文章-2"><a href="#测试文章-2" class="headerlink" title="测试文章 2"></a>测试文章 2</h1><p>这是第 2 篇测试文章，用于验证博客功能。</p><h2 id="内容概要"><a href="#内容概要" class="headerlink" title="内容概要"></a>内容概要</h2><ul><li>测试文章分类和标签功能</li><li>验证文章显示效果</li><li>测试搜索功能</li></ul><h2 id="更多内容"><a href="#更多内容" class="headerlink" title="更多内容"></a>更多内容</h2><p>这是测试内容，用于填充文章以测试布局和样式。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;测试文章-2&quot;&gt;&lt;a href=&quot;#测试文章-2&quot; class=&quot;headerlink&quot; title=&quot;测试文章 2&quot;&gt;&lt;/a&gt;测试文章 2&lt;/h1&gt;&lt;p&gt;这是第 2 篇测试文章，用于验证博客功能。&lt;/p&gt;
+&lt;h2 id=&quot;内容概要&quot;&gt;&lt;a href=&quot;#内容概要</summary>
+      
+    
+    
+    
+    <category term="类别2" scheme="https://soulfiveking.github.io/dark-soul/categories/%E7%B1%BB%E5%88%AB2/"/>
+    
+    
+    <category term="测试" scheme="https://soulfiveking.github.io/dark-soul/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+    <category term="分类2" scheme="https://soulfiveking.github.io/dark-soul/tags/%E5%88%86%E7%B1%BB2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试文章4</title>
+    <link href="https://soulfiveking.github.io/dark-soul/2024/01/13/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A04/"/>
+    <id>https://soulfiveking.github.io/dark-soul/2024/01/13/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A04/</id>
+    <published>2024-01-12T16:00:00.000Z</published>
+    <updated>2026-01-13T08:34:04.710Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="测试文章-4"><a href="#测试文章-4" class="headerlink" title="测试文章 4"></a>测试文章 4</h1><p>这是第 4 篇测试文章，用于验证博客功能。</p><h2 id="内容概要"><a href="#内容概要" class="headerlink" title="内容概要"></a>内容概要</h2><ul><li>测试文章分类和标签功能</li><li>验证文章显示效果</li><li>测试搜索功能</li></ul><h2 id="更多内容"><a href="#更多内容" class="headerlink" title="更多内容"></a>更多内容</h2><p>这是测试内容，用于填充文章以测试布局和样式。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;测试文章-4&quot;&gt;&lt;a href=&quot;#测试文章-4&quot; class=&quot;headerlink&quot; title=&quot;测试文章 4&quot;&gt;&lt;/a&gt;测试文章 4&lt;/h1&gt;&lt;p&gt;这是第 4 篇测试文章，用于验证博客功能。&lt;/p&gt;
+&lt;h2 id=&quot;内容概要&quot;&gt;&lt;a href=&quot;#内容概要</summary>
+      
+    
+    
+    
+    <category term="类别4" scheme="https://soulfiveking.github.io/dark-soul/categories/%E7%B1%BB%E5%88%AB4/"/>
+    
+    
+    <category term="测试" scheme="https://soulfiveking.github.io/dark-soul/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+    <category term="分类4" scheme="https://soulfiveking.github.io/dark-soul/tags/%E5%88%86%E7%B1%BB4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>搜索功能测试文章</title>
+    <link href="https://soulfiveking.github.io/dark-soul/2024/01/13/%E6%90%9C%E7%B4%A2%E5%8A%9F%E8%83%BD%E6%B5%8B%E8%AF%95/"/>
+    <id>https://soulfiveking.github.io/dark-soul/2024/01/13/%E6%90%9C%E7%B4%A2%E5%8A%9F%E8%83%BD%E6%B5%8B%E8%AF%95/</id>
+    <published>2024-01-12T16:00:00.000Z</published>
+    <updated>2026-01-13T08:11:55.917Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="搜索功能测试"><a href="#搜索功能测试" class="headerlink" title="搜索功能测试"></a>搜索功能测试</h1><p>这是一个专门用于测试搜索功能的文章。</p><h2 id="测试关键词"><a href="#测试关键词" class="headerlink" title="测试关键词"></a>测试关键词</h2><p>以下是本文包含的测试关键词：</p><ol><li><strong>Hexo博客</strong></li><li><strong>搜索功能测试</strong></li><li><strong>anzhiyu主题</strong></li><li><strong>静态网站生成器</strong></li><li><strong>技术博客搭建</strong></li></ol><h2 id="更多内容"><a href="#更多内容" class="headerlink" title="更多内容"></a>更多内容</h2><p>搜索功能应该能够索引这篇文章中的所有关键词。当你输入”Hexo”、”搜索”、”anzhiyu”等关键词时，应该能搜索到这篇文章。</p><p>如果你能看到搜索框并成功搜索到这篇文章，说明搜索功能配置正确。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;搜索功能测试&quot;&gt;&lt;a href=&quot;#搜索功能测试&quot; class=&quot;headerlink&quot; title=&quot;搜索功能测试&quot;&gt;&lt;/a&gt;搜索功能测试&lt;/h1&gt;&lt;p&gt;这是一个专门用于测试搜索功能的文章。&lt;/p&gt;
+&lt;h2 id=&quot;测试关键词&quot;&gt;&lt;a href=&quot;#测试关键词&quot;</summary>
+      
+    
+    
+    
+    <category term="测试" scheme="https://soulfiveking.github.io/dark-soul/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+    <category term="搜索测试" scheme="https://soulfiveking.github.io/dark-soul/tags/%E6%90%9C%E7%B4%A2%E6%B5%8B%E8%AF%95/"/>
+    
+    <category term="Hexo" scheme="https://soulfiveking.github.io/dark-soul/tags/Hexo/"/>
+    
+    <category term="anzhiyu" scheme="https://soulfiveking.github.io/dark-soul/tags/anzhiyu/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试文章5</title>
+    <link href="https://soulfiveking.github.io/dark-soul/2024/01/13/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A05/"/>
+    <id>https://soulfiveking.github.io/dark-soul/2024/01/13/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A05/</id>
+    <published>2024-01-12T16:00:00.000Z</published>
+    <updated>2026-01-13T08:34:04.710Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="测试文章-5"><a href="#测试文章-5" class="headerlink" title="测试文章 5"></a>测试文章 5</h1><p>这是第 5 篇测试文章，用于验证博客功能。</p><h2 id="内容概要"><a href="#内容概要" class="headerlink" title="内容概要"></a>内容概要</h2><ul><li>测试文章分类和标签功能</li><li>验证文章显示效果</li><li>测试搜索功能</li></ul><h2 id="更多内容"><a href="#更多内容" class="headerlink" title="更多内容"></a>更多内容</h2><p>这是测试内容，用于填充文章以测试布局和样式。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;测试文章-5&quot;&gt;&lt;a href=&quot;#测试文章-5&quot; class=&quot;headerlink&quot; title=&quot;测试文章 5&quot;&gt;&lt;/a&gt;测试文章 5&lt;/h1&gt;&lt;p&gt;这是第 5 篇测试文章，用于验证博客功能。&lt;/p&gt;
+&lt;h2 id=&quot;内容概要&quot;&gt;&lt;a href=&quot;#内容概要</summary>
+      
+    
+    
+    
+    <category term="类别5" scheme="https://soulfiveking.github.io/dark-soul/categories/%E7%B1%BB%E5%88%AB5/"/>
+    
+    
+    <category term="测试" scheme="https://soulfiveking.github.io/dark-soul/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+    <category term="分类5" scheme="https://soulfiveking.github.io/dark-soul/tags/%E5%88%86%E7%B1%BB5/"/>
+    
+  </entry>
+  
+</feed>
